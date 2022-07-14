@@ -1,0 +1,46 @@
+.myBG {
+  height: 100vh;
+  background: url("../asset/image/bg/main.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+
+.trending {
+  height: auto;
+  background: url("../asset/image/trending/spiderman.jpg");
+  background-size: cover;
+}
+
+.movieimage {
+  height: auto;
+  padding: 5px;
+  margin: 5px;
+  background-color: black;
+}
+
+.moviewrapper {
+}
+
+.images {
+  height: 500px;
+}
+
+.superhero {
+  height: auto;
+  background: url("../asset/image/bg/Sci-Fi-SciFi-Cakrawala-Kota-Hujan-Peta-Latar-Belakang-Komputer-Berkualitas-Tinggi-Cetak-Anak-Anak-anak.jpg_Q90.jpg_.webp");
+  background-size: cover;
+}
